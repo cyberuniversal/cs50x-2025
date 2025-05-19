@@ -10,11 +10,11 @@ This repository contains my solutions and notes for [CS50x](https://cs50.harvard
 
 | Week | Topic | Folder |
 |------|-------|--------|
-| 0 | Scratch | `pset0/` |
-| 1 | C, Linux CLI | `pset1/` |
-| 2 | Arrays, Algorithms | `pset2/` |
+| 0 | Scratch | [pset0](./pset0/) |
+| 1 | C, Linux CLI | [pset1](./pset1/) |
+| 2 | Arrays, Algorithms | [pset2](./pset2/) |
 | ... | ... | ... |
-| Final | Custom Project | `final-project/` |
+| Final | Custom Project | [final-project](./final-project/) |
 
 ---
 
